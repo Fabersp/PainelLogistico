@@ -1,0 +1,528 @@
+
+/* Class = "UINavigationItem"; title = "Prog. da Colheita"; ObjectID = "00T-ua-ezL"; */
+"00T-ua-ezL.title" = "Prog. da Colheita";
+
+/* Class = "UILabel"; text = "Propriedade"; ObjectID = "10W-7u-KKp"; */
+"10W-7u-KKp.text" = "Propriedade";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "1Ky-At-Slg"; */
+"1Ky-At-Slg.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Amostra"; ObjectID = "1Pd-NX-8zk"; */
+"1Pd-NX-8zk.text" = "Amostra";
+
+/* Class = "UILabel"; text = "99/99/9999"; ObjectID = "1dE-um-Ngi"; */
+"1dE-um-Ngi.text" = "99/99/9999";
+
+/* Class = "UILabel"; text = "Notícias"; ObjectID = "1eF-3M-gG8"; */
+"1eF-3M-gG8.text" = "Notícias";
+
+/* Class = "UIButton"; normalTitle = "Contato"; ObjectID = "1xK-rj-w6Q"; */
+"1xK-rj-w6Q.normalTitle" = "Contato";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "2Qp-4V-f4J"; */
+"2Qp-4V-f4J.text" = "Detail";
+
+/* Class = "UITextField"; placeholder = "Lote"; ObjectID = "2vO-hN-gLl"; */
+"2vO-hN-gLl.placeholder" = "Lote";
+
+/* Class = "UINavigationItem"; title = "Desenvolvido por"; ObjectID = "3Ib-dI-K9x"; */
+"3Ib-dI-K9x.title" = "Desenvolvido por";
+
+/* Class = "UILabel"; text = "Amostra"; ObjectID = "3oA-Wz-AFS"; */
+"3oA-Wz-AFS.text" = "Amostra";
+
+/* Class = "UILabel"; text = "Contato"; ObjectID = "47A-6n-HVU"; */
+"47A-6n-HVU.text" = "Contato";
+
+/* Class = "UIButton"; normalTitle = "www.promastersolution.com.br"; ObjectID = "50V-7G-PQ1"; */
+"50V-7G-PQ1.normalTitle" = "www.promastersolution.com.br";
+
+/* Class = "UITextField"; placeholder = "Colheita"; ObjectID = "707-nx-4tA"; */
+"707-nx-4tA.placeholder" = "Colheita";
+
+/* Class = "UINavigationItem"; title = "Ultimas notícias"; ObjectID = "7QJ-Xm-Knp"; */
+"7QJ-Xm-Knp.title" = "Ultimas notícias";
+
+/* Class = "UITableViewController"; title = "Sidebar"; ObjectID = "7lR-k2-euG"; */
+"7lR-k2-euG.title" = "Sidebar";
+
+/* Class = "UITextField"; placeholder = "Al"; ObjectID = "7zD-f9-87j"; */
+"7zD-f9-87j.placeholder" = "Al";
+
+/* Class = "UILabel"; text = "Politicas"; ObjectID = "8OT-iw-TxE"; */
+"8OT-iw-TxE.text" = "Politicas";
+
+/* Class = "UILabel"; text = "Variedade"; ObjectID = "8Yk-F6-4bo"; */
+"8Yk-F6-4bo.text" = "Variedade";
+
+/* Class = "UILabel"; text = "Recomendações"; ObjectID = "A6I-he-Pf1"; */
+"A6I-he-Pf1.text" = "Recomendações";
+
+/* Class = "UILabel"; text = "Laure Muresm Silva"; ObjectID = "AUL-bt-Ake"; */
+"AUL-bt-Ake.text" = "Laure Muresm Silva";
+
+/* Class = "UILabel"; text = "Politicas"; ObjectID = "AZS-8C-mRv"; */
+"AZS-8C-mRv.text" = "Politicas";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "Alr-Vi-M4h"; */
+"Alr-Vi-M4h.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Gessagem"; ObjectID = "Ayb-Xv-Ypj"; */
+"Ayb-Xv-Ypj.text" = "Gessagem";
+
+/* Class = "UIBarButtonItem"; title = "Voltar"; ObjectID = "BFM-wd-wVd"; */
+"BFM-wd-wVd.title" = "Voltar";
+
+/* Class = "UITextField"; placeholder = "Ca"; ObjectID = "BGe-bc-bZA"; */
+"BGe-bc-bZA.placeholder" = "Ca";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Be8-CA-EYr"; */
+"Be8-CA-EYr.text" = "Title";
+
+/* Class = "UILabel"; text = "Edição Atual"; ObjectID = "C2K-ia-sfd"; */
+"C2K-ia-sfd.text" = "Edição Atual";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "C2L-oW-xcP"; */
+"C2L-oW-xcP.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Argila(g/Kg)"; ObjectID = "CXh-t3-a6D"; */
+"CXh-t3-a6D.text" = "Argila(g/Kg)";
+
+/* Class = "UILabel"; text = "Calagem"; ObjectID = "D61-mk-XNj"; */
+"D61-mk-XNj.text" = "Calagem";
+
+/* Class = "UINavigationItem"; title = "Soja"; ObjectID = "DB1-jj-fo9"; */
+"DB1-jj-fo9.title" = "Soja";
+
+/* Class = "UIBarButtonItem"; title = "salvar"; ObjectID = "Dn4-Tz-pOD"; */
+"Dn4-Tz-pOD.title" = "salvar";
+
+/* Class = "UILabel"; text = "Amostra"; ObjectID = "Dtc-9F-V82"; */
+"Dtc-9F-V82.text" = "Amostra";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "EWD-ko-vk0"; */
+"EWD-ko-vk0.text" = "Detail";
+
+/* Class = "UIButton"; normalTitle = "Calcular"; ObjectID = "EXA-BU-eUy"; */
+"EXA-BU-eUy.normalTitle" = "Calcular";
+
+/* Class = "UIButton"; normalTitle = "Contar a um amigo"; ObjectID = "Euw-9u-3cb"; */
+"Euw-9u-3cb.normalTitle" = "Contar a um amigo";
+
+/* Class = "UITextField"; placeholder = "Para"; ObjectID = "FHp-HB-X8F"; */
+"FHp-HB-X8F.placeholder" = "Para";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "FMN-a9-CJb"; */
+"FMN-a9-CJb.text" = "Title";
+
+/* Class = "UILabel"; text = "RS"; ObjectID = "Fqu-bM-a4J"; */
+"Fqu-bM-a4J.text" = "RS";
+
+/* Class = "UINavigationItem"; title = "Soja"; ObjectID = "GFN-Ps-Lmt"; */
+"GFN-Ps-Lmt.title" = "Soja";
+
+/* Class = "UILabel"; text = "Sobre"; ObjectID = "HmW-Q3-UAS"; */
+"HmW-Q3-UAS.text" = "Sobre";
+
+/* Class = "UIBarButtonItem"; title = "Selecionar"; ObjectID = "IFp-nY-fv0"; */
+"IFp-nY-fv0.title" = "Selecionar";
+
+/* Class = "UINavigationItem"; title = "Gessagem"; ObjectID = "IbJ-ko-ARg"; */
+"IbJ-ko-ARg.title" = "Gessagem";
+
+/* Class = "UITextField"; placeholder = "Variedade"; ObjectID = "JnE-cL-FSP"; */
+"JnE-cL-FSP.placeholder" = "Variedade";
+
+/* Class = "UILabel"; text = "Sugestões, Elogios, Críticas, Reclamações"; ObjectID = "JsS-Qx-x64"; */
+"JsS-Qx-x64.text" = "Sugestões, Elogios, Críticas, Reclamações";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "KFN-yI-i0m"; */
+"KFN-yI-i0m.text" = "Detail";
+
+/* Class = "UITextField"; placeholder = "Propriedade"; ObjectID = "KWa-pk-cPu"; */
+"KWa-pk-cPu.placeholder" = "Propriedade";
+
+/* Class = "UILabel"; text = "Teor de argila > 40%"; ObjectID = "Kzh-E4-E8J"; */
+"Kzh-E4-E8J.text" = "Teor de argila > 40%";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "L6t-w7-fGo"; */
+"L6t-w7-fGo.text" = "Detail";
+
+/* Class = "UILabel"; text = "Gastrônomia"; ObjectID = "LUR-95-v5Q"; */
+"LUR-95-v5Q.text" = "Gastrônomia";
+
+/* Class = "UILabel"; text = "Politicas"; ObjectID = "MJK-Ks-BBK"; */
+"MJK-Ks-BBK.text" = "Politicas";
+
+/* Class = "UINavigationItem"; title = "Gessagem"; ObjectID = "MWW-D1-3ia"; */
+"MWW-D1-3ia.title" = "Gessagem";
+
+/* Class = "UILabel"; text = "Data:"; ObjectID = "N6O-K9-Guz"; */
+"N6O-K9-Guz.text" = "Data:";
+
+/* Class = "UILabel"; text = "Amostra"; ObjectID = "NJM-1e-axt"; */
+"NJM-1e-axt.text" = "Amostra";
+
+/* Class = "UITextField"; placeholder = "Data"; ObjectID = "NSU-Gv-v6Q"; */
+"NSU-Gv-v6Q.placeholder" = "Data";
+
+/* Class = "UIBarButtonItem"; title = "Selecionar"; ObjectID = "NcX-gN-Nab"; */
+"NcX-gN-Nab.title" = "Selecionar";
+
+/* Class = "UITextField"; placeholder = "Data"; ObjectID = "Ni3-XK-1r7"; */
+"Ni3-XK-1r7.placeholder" = "Data";
+
+/* Class = "UILabel"; text = "Laure Muresm Silva"; ObjectID = "NyW-Jf-8nO"; */
+"NyW-Jf-8nO.text" = "Laure Muresm Silva";
+
+/* Class = "UILabel"; text = "Propriedade"; ObjectID = "OFE-ba-Vgg"; */
+"OFE-ba-Vgg.text" = "Propriedade";
+
+/* Class = "UILabel"; text = "Proprietario"; ObjectID = "PWL-2q-LUM"; */
+"PWL-2q-LUM.text" = "Proprietario";
+
+/* Class = "UITextField"; placeholder = "Para"; ObjectID = "PaI-h4-CNy"; */
+"PaI-h4-CNy.placeholder" = "Para";
+
+/* Class = "UILabel"; text = "Variedade:"; ObjectID = "PpZ-R2-X7J"; */
+"PpZ-R2-X7J.text" = "Variedade:";
+
+/* Class = "UITextField"; placeholder = "K"; ObjectID = "RML-5K-E8Q"; */
+"RML-5K-E8Q.placeholder" = "K";
+
+/* Class = "UILabel"; text = "Nível de P:"; ObjectID = "Rkj-T4-4Fr"; */
+"Rkj-T4-4Fr.text" = "Nível de P:";
+
+/* Class = "UILabel"; text = "Ca"; ObjectID = "SaK-5R-Aks"; */
+"SaK-5R-Aks.text" = "Ca";
+
+/* Class = "UILabel"; text = "Amostra:"; ObjectID = "TEs-xv-6gN"; */
+"TEs-xv-6gN.text" = "Amostra:";
+
+/* Class = "UINavigationItem"; title = "Relatórios"; ObjectID = "TF2-om-aRo"; */
+"TF2-om-aRo.title" = "Relatórios";
+
+/* Class = "UIBarButtonItem"; title = "salvar"; ObjectID = "TXv-mt-gTD"; */
+"TXv-mt-gTD.title" = "salvar";
+
+/* Class = "UITextField"; placeholder = "Plantio"; ObjectID = "ThP-si-KG3"; */
+"ThP-si-KG3.placeholder" = "Plantio";
+
+/* Class = "UILabel"; text = "99/99/9999"; ObjectID = "UHP-Vv-B0u"; */
+"UHP-Vv-B0u.text" = "99/99/9999";
+
+/* Class = "UILabel"; text = "Laure Muresm Silva"; ObjectID = "Ub7-hg-qbB"; */
+"Ub7-hg-qbB.text" = "Laure Muresm Silva";
+
+/* Class = "UIBarButtonItem"; title = "salvar"; ObjectID = "VNZ-5S-8Ho"; */
+"VNZ-5S-8Ho.title" = "salvar";
+
+/* Class = "UILabel"; text = "Politicas"; ObjectID = "VbZ-Y3-Qsa"; */
+"VbZ-Y3-Qsa.text" = "Politicas";
+
+/* Class = "UITextField"; placeholder = "Germinação"; ObjectID = "Vgk-Q3-RaY"; */
+"Vgk-Q3-RaY.placeholder" = "Germinação";
+
+/* Class = "UILabel"; text = "cmolc/dm³ - Para Amostras de 20 - 40 cm"; ObjectID = "WHs-oj-hxg"; */
+"WHs-oj-hxg.text" = "cmolc/dm³ - Para Amostras de 20 - 40 cm";
+
+/* Class = "UITextField"; placeholder = "Proprietário"; ObjectID = "WWe-Kd-3h3"; */
+"WWe-Kd-3h3.placeholder" = "Proprietário";
+
+/* Class = "UITextField"; placeholder = "P"; ObjectID = "WZP-6R-OVh"; */
+"WZP-6R-OVh.placeholder" = "P";
+
+/* Class = "UITextField"; placeholder = "Amostra"; ObjectID = "Wpl-Ua-YOQ"; */
+"Wpl-Ua-YOQ.placeholder" = "Amostra";
+
+/* Class = "UITextField"; placeholder = "P2O5"; ObjectID = "XAC-6L-Ojg"; */
+"XAC-6L-Ojg.placeholder" = "P2O5";
+
+/* Class = "UILabel"; text = "Excesso/Falta (kg)"; ObjectID = "XG1-L0-jMo"; */
+"XG1-L0-jMo.text" = "Excesso/Falta (kg)";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "XLe-rC-5mj"; */
+"XLe-rC-5mj.text" = "Title";
+
+/* Class = "UILabel"; text = "Cultural"; ObjectID = "Xch-ZP-xu1"; */
+"Xch-ZP-xu1.text" = "Cultural";
+
+/* Class = "UILabel"; text = "Lote"; ObjectID = "XgP-xm-Jep"; */
+"XgP-xm-Jep.text" = "Lote";
+
+/* Class = "UILabel"; text = "Propriedade"; ObjectID = "ZP8-Ww-FSw"; */
+"ZP8-Ww-FSw.text" = "Propriedade";
+
+/* Class = "UIBarButtonItem"; title = "Voltar"; ObjectID = "ZUe-OZ-ubf"; */
+"ZUe-OZ-ubf.title" = "Voltar";
+
+/* Class = "UILabel"; text = "Proprietario"; ObjectID = "aD8-fC-Zy6"; */
+"aD8-fC-Zy6.text" = "Proprietario";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "amh-ey-UTo"; */
+"amh-ey-UTo.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Al"; ObjectID = "aqK-QE-iGn"; */
+"aqK-QE-iGn.text" = "Al";
+
+/* Class = "UILabel"; text = "Lote:"; ObjectID = "bKk-g2-2Xw"; */
+"bKk-g2-2Xw.text" = "Lote:";
+
+/* Class = "UILabel"; text = "Propriedade"; ObjectID = "bXR-TQ-ugg"; */
+"bXR-TQ-ugg.text" = "Propriedade";
+
+/* Class = "UINavigationItem"; title = "Conversor"; ObjectID = "bjC-Uj-xXq"; */
+"bjC-Uj-xXq.title" = "Conversor";
+
+/* Class = "UITextField"; placeholder = "Tipo de Solo"; ObjectID = "blT-U3-rqP"; */
+"blT-U3-rqP.placeholder" = "Tipo de Solo";
+
+/* Class = "UILabel"; text = "Amostra:"; ObjectID = "bnp-Re-MOy"; */
+"bnp-Re-MOy.text" = "Amostra:";
+
+/* Class = "UILabel"; text = "Vídeos"; ObjectID = "brN-FN-QzZ"; */
+"brN-FN-QzZ.text" = "Vídeos";
+
+/* Class = "UILabel"; text = "Rafael Aguiar Zapparoli"; ObjectID = "cae-uf-obg"; */
+"cae-uf-obg.text" = "Rafael Aguiar Zapparoli";
+
+/* Class = "UILabel"; text = "15 mar 2016 08:15h"; ObjectID = "cg3-eR-TW2"; */
+"cg3-eR-TW2.text" = "15 mar 2016 08:15h";
+
+/* Class = "UITextField"; placeholder = "Ciclo"; ObjectID = "ciV-Nc-d70"; */
+"ciV-Nc-d70.placeholder" = "Ciclo";
+
+/* Class = "UILabel"; text = "P2O5"; ObjectID = "cuv-95-iu0"; */
+"cuv-95-iu0.text" = "P2O5";
+
+/* Class = "UILabel"; text = "Data:"; ObjectID = "dLE-Wa-Q00"; */
+"dLE-Wa-Q00.text" = "Data:";
+
+/* Class = "UILabel"; text = "Necessidadde da Soja"; ObjectID = "dg5-Qy-MUH"; */
+"dg5-Qy-MUH.text" = "Necessidadde da Soja";
+
+/* Class = "UITextField"; placeholder = "Proprietário"; ObjectID = "doc-AV-nt0"; */
+"doc-AV-nt0.placeholder" = "Proprietário";
+
+/* Class = "UITextField"; placeholder = "Propriedade"; ObjectID = "dt7-8K-8f6"; */
+"dt7-8K-8f6.placeholder" = "Propriedade";
+
+/* Class = "UILabel"; text = "Engenheiro Agrônomo"; ObjectID = "dtW-qh-hgt"; */
+"dtW-qh-hgt.text" = "Engenheiro Agrônomo";
+
+/* Class = "UILabel"; text = "N"; ObjectID = "e1B-Pp-Lyx"; */
+"e1B-Pp-Lyx.text" = "N";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "eGW-yR-o6m"; */
+"eGW-yR-o6m.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Colheita"; ObjectID = "ep7-N4-d4P"; */
+"ep7-N4-d4P.title" = "Colheita";
+
+/* Class = "UILabel"; text = "cmolc/dm³ (K)"; ObjectID = "f8h-7o-etF"; */
+"f8h-7o-etF.text" = "cmolc/dm³ (K)";
+
+/* Class = "UINavigationItem"; title = "Sobre"; ObjectID = "fRf-Fi-7cC"; */
+"fRf-Fi-7cC.title" = "Sobre";
+
+/* Class = "UILabel"; text = "Proprietario"; ObjectID = "fYt-vx-FDz"; */
+"fYt-vx-FDz.text" = "Proprietario";
+
+/* Class = "UILabel"; text = "Resultado"; ObjectID = "fsB-ge-AiM"; */
+"fsB-ge-AiM.text" = "Resultado";
+
+/* Class = "UILabel"; text = "99/99/9999"; ObjectID = "fxl-jw-ek2"; */
+"fxl-jw-ek2.text" = "99/99/9999";
+
+/* Class = "UILabel"; text = "99/99/9999"; ObjectID = "g2v-eC-T8h"; */
+"g2v-eC-T8h.text" = "99/99/9999";
+
+/* Class = "UITextField"; placeholder = "De"; ObjectID = "g5k-4R-nUj"; */
+"g5k-4R-nUj.placeholder" = "De";
+
+/* Class = "UINavigationItem"; title = "Calagem"; ObjectID = "gKW-Fd-5LA"; */
+"gKW-Fd-5LA.title" = "Calagem";
+
+/* Class = "UILabel"; text = "Laure Muresm Silva"; ObjectID = "gab-21-l1i"; */
+"gab-21-l1i.text" = "Laure Muresm Silva";
+
+/* Class = "UIButton"; normalTitle = "Download"; ObjectID = "gzR-A6-1To"; */
+"gzR-A6-1To.normalTitle" = "Download";
+
+/* Class = "UILabel"; text = "Proprietario"; ObjectID = "gzx-rJ-JnS"; */
+"gzx-rJ-JnS.text" = "Proprietario";
+
+/* Class = "UINavigationItem"; title = "Adubação Soja"; ObjectID = "hKN-qM-CQd"; */
+"hKN-qM-CQd.title" = "Adubação Soja";
+
+/* Class = "UILabel"; text = "99/99/9999"; ObjectID = "hTd-5v-tLT"; */
+"hTd-5v-tLT.text" = "99/99/9999";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "hVU-82-Exu"; */
+"hVU-82-Exu.text" = "Title";
+
+/* Class = "UILabel"; text = "Concentração (kg)"; ObjectID = "hc7-0j-pjm"; */
+"hc7-0j-pjm.text" = "Concentração (kg)";
+
+/* Class = "UILabel"; text = "99/99/9999"; ObjectID = "iCW-15-N72"; */
+"iCW-15-N72.text" = "99/99/9999";
+
+/* Class = "UILabel"; text = "Amostra:"; ObjectID = "ifY-mg-4J9"; */
+"ifY-mg-4J9.text" = "Amostra:";
+
+/* Class = "UILabel"; text = "Resultado final"; ObjectID = "inm-6W-7XG"; */
+"inm-6W-7XG.text" = "Resultado final";
+
+/* Class = "UILabel"; text = "Resultado"; ObjectID = "ixm-go-q4c"; */
+"ixm-go-q4c.text" = "Resultado";
+
+/* Class = "UILabel"; text = "Promoções"; ObjectID = "jDa-GF-KYJ"; */
+"jDa-GF-KYJ.text" = "Promoções";
+
+/* Class = "UINavigationItem"; title = "Noícias por Categoria"; ObjectID = "ja3-uX-5PW"; */
+"ja3-uX-5PW.title" = "Noícias por Categoria";
+
+/* Class = "UILabel"; text = "Amostra:"; ObjectID = "jgJ-zI-c8h"; */
+"jgJ-zI-c8h.text" = "Amostra:";
+
+/* Class = "UITextField"; placeholder = "Argila(g/kg)"; ObjectID = "jxJ-DQ-ax0"; */
+"jxJ-DQ-ax0.placeholder" = "Argila(g/kg)";
+
+/* Class = "UILabel"; text = "Resultado"; ObjectID = "k2k-qc-f5b"; */
+"k2k-qc-f5b.text" = "Resultado";
+
+/* Class = "UINavigationItem"; title = "Ultimas notícias"; ObjectID = "k3S-iz-gnY"; */
+"k3S-iz-gnY.title" = "Ultimas notícias";
+
+/* Class = "UILabel"; text = "mg/dm³ (P)"; ObjectID = "kOf-Z2-PAj"; */
+"kOf-Z2-PAj.text" = "mg/dm³ (P)";
+
+/* Class = "UILabel"; text = "Plantio:"; ObjectID = "lLR-PK-lEj"; */
+"lLR-PK-lEj.text" = "Plantio:";
+
+/* Class = "UILabel"; text = "RS"; ObjectID = "lec-3p-BVi"; */
+"lec-3p-BVi.text" = "RS";
+
+/* Class = "UILabel"; text = "Soja"; ObjectID = "lzk-ba-Wuk"; */
+"lzk-ba-Wuk.text" = "Soja";
+
+/* Class = "UITextField"; placeholder = "De"; ObjectID = "m2g-sV-Zmi"; */
+"m2g-sV-Zmi.placeholder" = "De";
+
+/* Class = "UILabel"; text = "K2O"; ObjectID = "n2N-Ug-eD7"; */
+"n2N-Ug-eD7.text" = "K2O";
+
+/* Class = "UIBarButtonItem"; title = "Selecionar"; ObjectID = "n50-Fw-0Jq"; */
+"n50-Fw-0Jq.title" = "Selecionar";
+
+/* Class = "UINavigationItem"; title = "Variedades"; ObjectID = "nGV-7r-2xg"; */
+"nGV-7r-2xg.title" = "Variedades";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "nJC-qi-kJ9"; */
+"nJC-qi-kJ9.text" = "Title";
+
+/* Class = "UILabel"; text = "15 mar 2016 08:15h"; ObjectID = "nKl-i7-LRP"; */
+"nKl-i7-LRP.text" = "15 mar 2016 08:15h";
+
+/* Class = "UILabel"; text = "Data:"; ObjectID = "nY5-N3-5FF"; */
+"nY5-N3-5FF.text" = "Data:";
+
+/* Class = "UILabel"; text = "Amostra:"; ObjectID = "o6a-hj-TQy"; */
+"o6a-hj-TQy.text" = "Amostra:";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "oJ0-LP-gFa"; */
+"oJ0-LP-gFa.text" = "...";
+
+/* Class = "UITextField"; placeholder = "Proprietário"; ObjectID = "oPf-cl-jcq"; */
+"oPf-cl-jcq.placeholder" = "Proprietário";
+
+/* Class = "UILabel"; text = "Colheita"; ObjectID = "oV7-Os-fvC"; */
+"oV7-Os-fvC.text" = "Colheita";
+
+/* Class = "UITextField"; placeholder = "Amostra"; ObjectID = "pO0-NU-E2t"; */
+"pO0-NU-E2t.placeholder" = "Amostra";
+
+/* Class = "UINavigationItem"; title = "Gessagem"; ObjectID = "pYu-dv-qOX"; */
+"pYu-dv-qOX.title" = "Gessagem";
+
+/* Class = "UILabel"; text = "Notícias por categoria"; ObjectID = "qHI-LF-YzZ"; */
+"qHI-LF-YzZ.text" = "Notícias por categoria";
+
+/* Class = "UILabel"; text = "Edições Anteriores"; ObjectID = "qfB-9o-Cro"; */
+"qfB-9o-Cro.text" = "Edições Anteriores";
+
+/* Class = "UINavigationItem"; title = "Proprietários"; ObjectID = "r7G-ne-BdX"; */
+"r7G-ne-BdX.title" = "Proprietários";
+
+/* Class = "UILabel"; text = "Proprietario"; ObjectID = "rGA-RT-Lmw"; */
+"rGA-RT-Lmw.text" = "Proprietario";
+
+/* Class = "UILabel"; text = "Politicas"; ObjectID = "rHo-1u-p7G"; */
+"rHo-1u-p7G.text" = "Politicas";
+
+/* Class = "UILabel"; text = "99/99/9999"; ObjectID = "rQ5-Jq-Md8"; */
+"rQ5-Jq-Md8.text" = "99/99/9999";
+
+/* Class = "UILabel"; text = "Colheita:"; ObjectID = "sUB-JK-KmE"; */
+"sUB-JK-KmE.text" = "Colheita:";
+
+/* Class = "UITextField"; placeholder = "N"; ObjectID = "sVO-d4-8oq"; */
+"sVO-d4-8oq.placeholder" = "N";
+
+/* Class = "UILabel"; text = "Edição Atual"; ObjectID = "sVX-DH-34M"; */
+"sVX-DH-34M.text" = "Edição Atual";
+
+/* Class = "UILabel"; text = "Resultado"; ObjectID = "scv-VQ-0Wx"; */
+"scv-VQ-0Wx.text" = "Resultado";
+
+/* Class = "UITabBarItem"; title = "Calagem"; ObjectID = "tO7-zT-fV9"; */
+"tO7-zT-fV9.title" = "Calagem";
+
+/* Class = "UIBarButtonItem"; title = "Voltar"; ObjectID = "tqN-Xl-E8z"; */
+"tqN-Xl-E8z.title" = "Voltar";
+
+/* Class = "UILabel"; text = "Data:"; ObjectID = "u2S-9O-vK1"; */
+"u2S-9O-vK1.text" = "Data:";
+
+/* Class = "UILabel"; text = "Formulado (kg)"; ObjectID = "v8r-bA-SSS"; */
+"v8r-bA-SSS.text" = "Formulado (kg)";
+
+/* Class = "UILabel"; text = "Desenvolvido por"; ObjectID = "vMj-5c-VIh"; */
+"vMj-5c-VIh.text" = "Desenvolvido por";
+
+/* Class = "UILabel"; text = "Amostra"; ObjectID = "vTQ-VY-cm2"; */
+"vTQ-VY-cm2.text" = "Amostra";
+
+/* Class = "UILabel"; text = "amostra de até 20 cm"; ObjectID = "vhV-5M-7XV"; */
+"vhV-5M-7XV.text" = "amostra de até 20 cm";
+
+/* Class = "UITextField"; placeholder = "K2O"; ObjectID = "w7i-eL-MlI"; */
+"w7i-eL-MlI.placeholder" = "K2O";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "wL1-d8-39Z"; */
+"wL1-d8-39Z.text" = "...";
+
+/* Class = "UILabel"; text = "Proprietario"; ObjectID = "wet-0A-HF6"; */
+"wet-0A-HF6.text" = "Proprietario";
+
+/* Class = "UILabel"; text = "Resultado"; ObjectID = "xP7-XU-nmP"; */
+"xP7-XU-nmP.text" = "Resultado";
+
+/* Class = "UILabel"; text = "Propriedade"; ObjectID = "xcI-3S-1Mh"; */
+"xcI-3S-1Mh.text" = "Propriedade";
+
+/* Class = "UITextField"; placeholder = "Propriedade"; ObjectID = "yHk-tj-jdS"; */
+"yHk-tj-jdS.placeholder" = "Propriedade";
+
+/* Class = "UILabel"; text = "Propriedade"; ObjectID = "yXq-3L-xox"; */
+"yXq-3L-xox.text" = "Propriedade";
+
+/* Class = "UILabel"; text = "Nível de K:"; ObjectID = "ymD-l8-1eI"; */
+"ymD-l8-1eI.text" = "Nível de K:";
+
+/* Class = "UILabel"; text = "Data:"; ObjectID = "zmz-tP-1LQ"; */
+"zmz-tP-1LQ.text" = "Data:";
+
+/* Class = "UILabel"; text = "RS"; ObjectID = "zoK-b2-imn"; */
+"zoK-b2-imn.text" = "RS";
